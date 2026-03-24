@@ -26,13 +26,3 @@
 **DevOps & Cloud**
 
 <img src="https://skillicons.dev/icons?i=aws,azure,git,linux&theme=dark" alt="DevOps & Cloud"/>
-
-### GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=danny-duncan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danny-duncan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=danny-duncan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
