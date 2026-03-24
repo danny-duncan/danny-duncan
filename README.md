@@ -27,10 +27,6 @@
 
 <img src="https://skillicons.dev/icons?i=aws,azure,git,linux&theme=dark" alt="DevOps & Cloud"/>
 
-**AI / ML**
-
-<img src="https://skillicons.dev/icons?i=pandas,jupyter&theme=dark" alt="AI / ML"/>
-
 ### GitHub Stats
 
 <div align="center">
@@ -46,14 +42,6 @@
 ### Activity
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=danny-duncan&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
 
 ---
 
