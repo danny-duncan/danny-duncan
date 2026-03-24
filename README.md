@@ -36,9 +36,3 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=danny-duncan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:360033,100:0b8793&height=120&section=footer" width="100%"/>
-
-</div>
