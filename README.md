@@ -39,16 +39,6 @@
 
 ---
 
-### Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=danny-duncan&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-<div align="center">
-
-<sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge">ReadmeForge</a> &nbsp;·&nbsp; <a href="https://github.com/danny-duncan">github.com/danny-duncan</a></sub>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:360033,100:0b8793&height=120&section=footer" width="100%"/>
 
 </div>
